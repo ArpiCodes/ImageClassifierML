@@ -43,8 +43,8 @@ opencv-python>=4.4.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cifar10-classification.git
-cd cifar10-classification
+git clone https://github.com/ArpiCodes/CIFAR 10 Image Classification Project.git
+cd CIFAR 10 Image Classification Project
 ```
 
 2. Create and activate virtual environment:
